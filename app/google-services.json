@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "441578442092",
+    "firebase_url": "https://test-8152e.firebaseio.com",
+    "project_id": "test-8152e",
+    "storage_bucket": "test-8152e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441578442092:android:84b20faf240ab31c",
+        "android_client_info": {
+          "package_name": "com.cuthell.dcuthell.bagelstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441578442092-9q2hf8nk5j63tcts4n8v5qmssff7292o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVB1Prrp1r3AK7aNl_lFhzNS2-N3RYGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441578442092:android:54299aba3d679821",
+        "android_client_info": {
+          "package_name": "com.example.epicodus_staff.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441578442092-9q2hf8nk5j63tcts4n8v5qmssff7292o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVB1Prrp1r3AK7aNl_lFhzNS2-N3RYGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
